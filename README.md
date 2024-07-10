@@ -1,9 +1,9 @@
 # CYP2D6-Inhibition-Prediction-Model
-Machine Learning-based prediction model for CYP2D6 inhibition prediction
+Machine learning-based prediction model for CYP2D6 inhibition prediction
 
 ## Introduction: ## 
 
-Welcome to our repository, here we provide machine learning model to efficiently predict the CYP2D6 inhibition of target drug compounds in early stage of drug discovery process.
+Welcome to our repository, here we provide machine learning model to efficiently predict the CYP2D6 inhibition of target drug compounds in early stage of drug discovery process
 
 ## Dependencies ##
 
@@ -33,8 +33,8 @@ Note: For the validation step, prepare a .csv file containing SMILES with biocla
 
 **Output:**
 
-Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable.
+Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable
  
-**Please make sure to keep all the required files (BBB.pkl, data_preprocessing.py, scaler, featuers.txt, inputfile.csv)in the working directory.**
+**Please make sure to keep all the required files (CYP2D6.pkl, data_preprocessing.py, scaler, featuers.txt, input_file.csv, model.py) in the working directory**
 
-**To download the prediction model file (CYP2D6.pkl), please refer to the "Tag --> v2.3.4" tab.**
+**To download the prediction model file (CYP2D6.pkl), please refer to the "Tag --> v2.3.4" tab**
