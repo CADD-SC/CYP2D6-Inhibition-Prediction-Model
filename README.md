@@ -33,7 +33,7 @@ Note: For the validation step, prepare a .csv file containing SMILES with biocla
 
 **Output:**
 
-Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable
+Our model generates output in binary value (1 or 0), where 1 indicates compound to be inhibitor, while 0 indicates non-inhibitor
  
 **Please ensure that all the necessary files (CYP2D6.pkl, data_preprocessing.py, scaler, features.txt, input_file.csv, model.py) are kept in the working directory**
 
