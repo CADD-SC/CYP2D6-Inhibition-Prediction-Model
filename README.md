@@ -7,9 +7,9 @@ Welcome to our repository, here we provide machine learning model to efficiently
 
 ## Classification criteria ##
 
-The model uses an IC50 threshold:
+The model uses an IC<sub>50</sub> threshold:
 
-</strong> If <em>IC50</em> < 10 μM, the compound is <strong>Inhibitor</strong> and belongs to class 1. If <em>IC50</em> ≥ 10 μM, it is <strong>Not an Inhibitor</strong> and belongs to class 0.
+</strong> If <em>IC<sub>50</sub></em> < 10 μM, the compound is <strong>Inhibitor</strong> and belongs to class 1. If <em>IC<sub>50</sub></em> ≥ 10 μM, it is <strong>Not an Inhibitor</strong> and belongs to class 0.
 
 ## Dependencies ##
 
